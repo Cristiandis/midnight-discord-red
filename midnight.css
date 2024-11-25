@@ -11,12 +11,6 @@
 	/* thickness of messages divider */
 	--divider-thickness: 3px;
 
-	/* color of status indicators and window controls */
-	--online-indicator: var(#23a55a); /* change to #23a55a for default green */
-	--dnd-indicator: hsl(#f23f43); /* change to #f23f43 for default red */
-	--idle-indicator: hsl(50, 60%, 60%); /* change to #f0b232 for default yellow */
-	--streaming-indicator: hsl(260, 60%, 60%); /* change to #593695 for default purple */
-
 	/* accent colors */
 	--accent-1: hsl(360, 100%, 55%); /* links */
 	--accent-2: hsl(360, 100%, 43%); /* general unread/mention elements */

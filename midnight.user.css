@@ -28,13 +28,13 @@
 	--online-indicator: var(--accent-2);
 
 	/* accent colors */
-	--accent-1: hsl(190, 80%, 60%); /* links */
-	--accent-2: hsl(190, 80%, 48%); /* general unread/mention elements */
-	--accent-3: hsl(190, 80%, 42%); /* accent buttons */
-	--accent-4: hsl(190, 80%, 36%); /* accent buttons when hovered */
-	--accent-5: hsl(190, 80%, 30%); /* accent buttons when clicked */
-	--mention: hsla(190, 80%, 52%, 0.1); /* mentions & mention messages */
-	--mention-hover: hsla(190, 80%, 52%, 0.05); /* mentions & mention messages when hovered */
+	--accent-1: hsl(360, 100%, 60%); /* links */
+	--accent-2: hsl(360, 100%, 48%); /* general unread/mention elements */
+	--accent-3: hsl(360, 100%, 42%); /* accent buttons */
+	--accent-4: hsl(360, 100%, 36%); /* accent buttons when hovered */
+	--accent-5: hsl(360, 100%, 30%); /* accent buttons when clicked */
+	--mention: hsla(360, 100%, 52%, 0.1); /* mentions & mention messages */
+	--mention-hover: hsla(360, 100%, 52%, 0.05); /* mentions & mention messages when hovered */
 
 	/* text colors */
 	--text-0: white; /* text on colored elements */
@@ -69,10 +69,10 @@
 
 	/* direct messages moon icon */
 	/* change to block to show, none to hide */
-	--discord-icon: none; /* discord icon */
-	--moon-icon: block; /* moon icon */
-	--moon-icon-url: url('https://upload.wikimedia.org/wikipedia/commons/c/c4/Font_Awesome_5_solid_moon.svg'); /* custom icon url */
-	--moon-icon-size: auto;
+	/*--discord-icon: none; /* discord icon */
+	/* --moon-icon: block; /* moon icon */
+	/* --moon-icon-url: url('https://upload.wikimedia.org/wikipedia/commons/c/c4/Font_Awesome_5_solid_moon.svg'); /* custom icon url */
+	/* --moon-icon-size: auto; */
 
 	/* filter uncolorable elements to fit theme */
 	/* (just set to none, they're too much work to configure) */

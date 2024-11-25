@@ -21,9 +21,6 @@
 	/* font, change to 'gg sans' for default discord font*/
 	--font: @font;
 
-	/* top left corner text */
-	--corner-text: @corner-text;
-
 	/* accent colors */
 	--accent-1: hsl(360, 100%, 55%); /* links */
 	--accent-2: hsl(360, 100%, 43%); /* general unread/mention elements */

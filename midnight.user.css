@@ -21,6 +21,9 @@
 	/* font, change to 'gg sans' for default discord font*/
 	--font: @font;
 
+	/* color of online status dot, change to #23a55a for default green */
+	--online-indicator: var(#23a55a);
+
 	/* accent colors */
 	--accent-1: hsl(360, 100%, 55%); /* links */
 	--accent-2: hsl(360, 100%, 43%); /* general unread/mention elements */
